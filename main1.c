@@ -1,7 +1,7 @@
-nclude<stdio.h>
-void main()
+#include<stdio.h>
+void main1()
 {
-big();
-fact();
+big1();
+fact1();
 }
 
