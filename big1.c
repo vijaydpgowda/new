@@ -1,6 +1,6 @@
-nclude <stdio.h>
+include <stdio.h>
 
-void big()
+void big1()
 {
     int num1, num2, num3;
 
